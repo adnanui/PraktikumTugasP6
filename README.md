@@ -2,10 +2,8 @@
 
 | | |
 |---|---|
-| **Nama** | _(isi nama)_ |
-| **NIM** | _(isi NIM)_ |
-| **Kelas** | _(isi kelas)_ |
-| **Mata Kuliah** | _(isi mata kuliah)_ |
+| **Nama** | Adnan Aiman Nabil |
+| **NIM** | L0325015 |
 
 ---
 
